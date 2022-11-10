@@ -1,0 +1,32 @@
+.cardContainer {
+    width: 15.5rem;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .1rem;
+
+}
+
+.cardContainer>img {
+width: 17rem;
+height: 15.625rem;
+
+}
+/*.card.body {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 0.5rem;
+}
+.colum-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3px;
+    padding: 2px;
+    gap: 2rem;
+    flex-direction: column;
+    flex-flow: wrap;
+}
+*/

@@ -1,0 +1,150 @@
+{
+  "phones": [
+    
+  {
+      "id": 1,
+      "Nombre": "Galaxy S7",
+      "manufacturer": "Samsung",
+      "description": "Introducing the smartphone your life can not do without, The Samsung Galaxy S7. Packed with features to keep you both productive and entertained, all in a sleek, slim design that fits comfortably in your hand or pocket.",
+      "color": "grey",
+      "price": 209,
+      "Imagen": "https://res.cloudinary.com/dujlexijg/image/upload/v1667860753/py-galaxy-a53-5g-a536-sm-a536elbdupo-531545501_vda2n6.png",
+      "screen": "5,1 inch Quad-HD",
+      "processor": "Snapdragon 820",
+      "ram": 4
+  },
+  {
+      "id": 2,
+      "Nombre": "Honor 10",
+      "manufacturer": "Huawei",
+      "description": "Great phone with an excellent interface. One of the best mid price range phones in the market.",
+      "color": "blue",
+      "price": 399,
+      "Imagen": "https://res.cloudinary.com/dujlexijg/image/upload/v1667861332/Huawei-Nova-8i-negro_c7nbkf.png",
+      "screen": "5,84 inch Full-HD",
+      "processor": "Kirin 970",
+      "ram": 6
+  },
+  {
+      "id": 3,
+      "Nombre": "P10 Lite",
+      "manufacturer": "Huawei",
+      "description": "Great phone with an excellent interface. One of the best mid price range phones in the market.",
+      "color": "white",
+      "price": 249,
+      "Imagen": "https://res.cloudinary.com/dujlexijg/image/upload/v1667861361/Huawei-P30-Pro-sin-fondo_yrtfzb.png",
+      "screen": "5,2 inch Full-HD",
+      "processor": "Kirin 658",
+      "ram": 4
+  },
+  {
+      "id": 4,
+      "Nombre": "Nokia 7.1",
+      "manufacturer": "Nokia",
+      "description": "Great phone with an excellent interface. One of the best mid price range phones in the market.",
+      "color": "black",
+      "price": 275,
+      "Imagen": "https://res.cloudinary.com/dujlexijg/image/upload/v1668016141/Nokia7.1Repair_884bd481-978c-4649-91bb-94dc50c64383_vh05er.png",
+      "screen": "5,84 inch Full-HD",
+      "processor": "Octa-core",
+      "ram": 4
+  },
+  {
+      "id": 5,
+      "Nombre": "Zen Phone 5",
+      "manufacturer": "Asus",
+      "description": "Great phone with an excellent interface. One of the best mid price range phones in the market.",
+      "color": "black",
+      "price": 359,
+      "Imagen": "https://res.cloudinary.com/dujlexijg/image/upload/v1668015945/ZenFone-5Z_light-purple_side_e4ol0j.png",
+      "screen": "6,2 inch Full-HD",
+      "processor": "Snapdragon 636",
+      "ram": 6
+  },
+  {
+      "id": 6,
+      "Nombre": "MI A2",
+      "manufacturer": "Xiaomi",
+      "description": "Great phone with an excellent interface. One of the best mid price range phones in the market.",
+      "color": "black",
+      "price": 179,
+      "Imagen": "http://cdn.shopify.com/s/files/1/0284/3059/8232/products/mi-a2-lite-blue_grande.png?v=1588712669",
+      "screen": "5,99 inch Full-HD",
+      "processor": "Snapdragon 660",
+      "ram": 6
+  },
+  {
+      "id": 7,
+      "Nombre": "Moto G6",
+      "manufacturer": "Motorola",
+      "description": "Great phone with an excellent interface. One of the best mid price range phones in the market.",
+      "color": "black",
+      "price": 199,
+      "Imagen": "https://cdn.andro4all.com/andro4all/2022/09/Motorola-Edge-Ultra-blanco.png?height=600",
+      "screen": "5,7 inch Full-HD",
+      "processor": "Snapdragon 450",
+      "ram": 3
+  },
+  {
+    "id": 8,
+    "Nombre": "iPhone 10  ",
+    "manufacturer": "Apple",
+    "description": "Great phone with an excellent interface. One of the best mid price range phones in the market.",
+    "color": "black",
+    "price": 800,
+    "Imagen": "https://res.cloudinary.com/dujlexijg/image/upload/v1667860401/swappie-iphone-xr-red_xqshlq.png",
+    "screen": "5,7 inch Full-HD",
+    "processor": "Snapdragon 450",
+    "ram": 3
+},
+{
+  "id": 9,
+  "Nombre": "iPhone 14",
+  "manufacturer": "Apple",
+  "description": "Great phone with an excellent interface. One of the best mid price range phones in the market.",
+  "color": "black",
+  "price": 999,
+  "Imagen": "https://res.cloudinary.com/dujlexijg/image/upload/v1667860542/swappie-iphone-12-mini-blue_gzzpe2.png",
+  "screen": "5,7 inch Full-HD",
+  "processor": "Snapdragon 450",
+  "ram": 3
+},
+{
+  "id": 10,
+  "Nombre": "Samsung G99 Galaxy",
+  "manufacturer": "Samsung",
+  "description": "For hygiene reasons, the earphones are not included. Water resistance advertised by manufacturers diminishing with use. For this reason, all of our electronic devices are generally sold as non-water resistant. ",
+  "color": "black",
+  "price": 590,
+  "Imagen": "https://res.cloudinary.com/dujlexijg/image/upload/v1667860679/es-galaxy-a53-5g-a536-sm-a536bzkneub-531776059_hczc7u.png",
+  "screen": "5,7 inch Full-HD",
+  "processor": "Snapdragon 450",
+  "ram": 3
+},
+{
+  "id": 11,
+  "Nombre": "Samsung M1B Galaxy ",
+  "manufacturer": "Samsung",
+  "description": "Great phone with an excellent interface. One of the best mid price range phones in the market.",
+  "color": "black",
+  "price": 469,
+  "Imagen": "https://res.cloudinary.com/dujlexijg/image/upload/v1667860753/py-galaxy-a53-5g-a536-sm-a536elbdupo-531545501_vda2n6.png",
+  "screen": "5,7 inch Full-HD",
+  "processor": "Snapdragon 450",
+  "ram": 3
+},
+{
+  "id": 12,
+  "Nombre": "Huawei Mate 40 Pro",
+  "manufacturer": "Huawei",
+  "description": "All included accessories are as specified and may have signs of minimal use. Some accessories, such as the charging cable, may be replaced by others manufactured by third parties.",
+  "color": "black",
+  "price": 350,
+  "Imagen": "https://res.cloudinary.com/dujlexijg/image/upload/v1667861332/Huawei-Nova-8i-negro_c7nbkf.png",
+  "screen": "5,7 inch Full-HD",
+  "processor": "Snapdragon 450",
+  "ram": 3
+}
+  
+]
+}
