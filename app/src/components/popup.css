@@ -1,53 +1,59 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 .modal {
-    font-size: 12px;
+    font-size: .75rem;
   }
   .modal > .header {
     width: 70%;
-    border-bottom: 1px solid gray;
-    font-size: 18px;
+    border-bottom: .0625rem solid ;
+    font-size: 1.125rem;
     text-align: center;
     margin: auto;
-    padding: 10px 5px;
-    background-color: #fff;
+    padding: .625rem .3125rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(50, 50, 93, 0.25) 0rem 1.875rem 3.75rem -0.75rem inset, rgba(0, 0, 0, 0.3) 0rem 1.125rem 2.25rem -1.125rem inset;
+    border: solid #000 ;
   }
-  .modal > .content {
-    width: 100%;
-    padding: 10px 5px;
-    
-  }
+ 
+  
   .modal > .actions {
+    font-family: 'Roboto', sans-serif;
     width: 70%;
-   
-    padding: 10px 5px;
+   font-size: 1.25rem;
+    padding: .625rem .3125rem;
     margin: auto;
     text-align: center;
-    background-color: #ffffff;
+    background-color: #faf8fc;
+    box-shadow: rgba(102, 102, 219, 0.25) 0rem 1.875rem 3.75rem -0.75rem inset, rgba(0, 0, 0, 0.3) 0rem 1.125rem 2.25rem -1.125rem inset;
+  border-radius: 1.875rem; 
+  
    
   }
   .modal > .close {
     cursor: pointer;
     position: absolute;
     display: block;
-    padding: 2px 5px;
-    line-height: 20px;
-    right: 50px;
-    top: -10px;
-    font-size: 30px;
+    padding: px .3125rem;
+    line-height: 1.25rem;
+    right: 3.125rem;
+    top: -0.625rem;
+    font-size: 1.875rem;
     background: #434040;
-    border-radius: 18px;
-    border: 1px solid #6b6868;
+    border-radius: 1.125rem;
+    border: .0625rem solid #6b6868;
   }
   button {
     padding: 1.3em 3em;
-    font-size: 12px;
+    font-size: .75rem;
     text-transform: uppercase;
-    letter-spacing: 2.5px;
+    letter-spacing: .1563rem;
     font-weight: 500;
     color: #000;
     background-color: rgb(222, 217, 217);
     border: none;
-    border-radius: 45px;
-    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 2.8125rem;
+    box-shadow: 0rem .5rem .9375rem rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease 0s;
     cursor: pointer;
     outline: none;
@@ -55,13 +61,13 @@
   
   button:hover {
     background-color: #885bc8;
-    box-shadow: 0px 15px 20px rgba(206, 162, 213, 0.4);
+    box-shadow: 0rem .9375rem 1.25rem rgba(206, 162, 213, 0.4);
     color: #fff;
-    transform: translateY(-7px);
+    transform: translateY(-0.4375rem);
   }
   
   button:active {
-    transform: translateY(-1px);
+    transform: translateY(-0.0625rem);
   }
   /*.principal {
     align-items: center;
