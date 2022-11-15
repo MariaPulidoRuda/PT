@@ -34,14 +34,14 @@
     cursor: pointer;
     position: absolute;
     display: block;
-    padding: px .3125rem;
-    line-height: 1.25rem;
-    right: 3.125rem;
-    top: -0.625rem;
-    font-size: 1.875rem;
+    padding: .700rem;
+    line-height: 1.00rem;
+    right: 7.125rem;
+    top: -0.425rem;
+    font-size: 1.175rem;
     background: #434040;
-    border-radius: 1.125rem;
-    border: .0625rem solid #6b6868;
+    border-radius: 50rem;
+    border: .1425rem solid #6b6868;
   }
   button {
     padding: 1.3em 3em;
